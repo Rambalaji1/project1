@@ -16,4 +16,4 @@ if is_palindrome(string):
 else:
   print(f"{string} is not a palindrome.")
   print("so its wrong")
-  print('Wrong again!')
+  
